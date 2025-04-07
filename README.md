@@ -42,7 +42,7 @@ This is a RESTful API built with .NET Core and Entity Framework Core that allows
 ## Installation and Configuration 🔨
 1. Clone the repository:
 ```bash
- git clone <Your-Repository-URL>
+ git clone git@github.com:jam300/ApiPeliculas_NetCore.git
 ```
 
 2. Restore NuGet packages:
