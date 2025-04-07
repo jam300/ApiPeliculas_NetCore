@@ -1,0 +1,25 @@
+# Build files
+bin/
+obj/
+*.db
+*.log
+Debug/
+Release/
+
+# .NET
+*.user
+*.suo
+*.DS_Store
+*.cache
+*.pdb
+*.dll
+*.exe
+*.db
+*.sqlite
+
+# Migraciones
+Migrations/
+
+# Configuraciones locales
+appsettings.Development.json
+appsettings.Local.json
